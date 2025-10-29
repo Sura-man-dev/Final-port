@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     if (typeof Typed !== 'undefined') {
         new Typed('.text', {
-            strings: ["Full Stack Developer", "Data Scientist", "Java Programmer", "Web Designer"],
+            strings: ["Full Stack Developer", "Data Scientist", "Java Programmer"],
             typeSpeed: 100,
             backSpeed: 100,
             backDelay: 1000,
